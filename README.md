@@ -1,69 +1,95 @@
 <h1 align="center">Hi 👋, I'm SOURABH MADAN NAYAK</h1>
-<h3 align="center">🚀 Backend Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Backend Web Developer | MERN Stack Enthusiast | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&width=435&lines=I+build+things+for+the+web+%F0%9F%9A%80;Backend+Developer+%7C+MERN+Stack+Lover;Always+learning+new+tech+%F0%9F%93%9A;Let's+connect+and+collaborate+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔥 Projects I’ve Worked On:
+### 🚀 Tech Projects
 
-- 🔗 **MERN Stack**
+- **🌐 MERN Stack**
   - 🏨 [FindMyStay](https://github.com/Sourabh878/FindMystay)
   - 🛡️ [Web-Guard: Website Network & Security Analyzer](https://github.com/Sourabh878/web_security-main)
 
-- 🌐 **Networking Projects**
+- **🔌 Networking Projects**
   - 🌍 [Web Proxy Server](https://github.com/Sourabh878/Web_proxy_server)
 
-- 📚 **Data Structures & Algorithms**
+- **📘 DSA-Based**
   - 🌳 [Digital Evolution of Matheran](https://github.com/Sourabh878/DSA-PROJECT)
 
-- 🔧 **OOPs-Based**
+- **🚖 OOPs-Based**
   - 🚗 [Uber Management System](https://github.com/Sourabh878/OOPS_project)
 
-- 🎨 **Front-End Clones**
+- **🎨 Front-End Clones**
   - 📺 [Amazon MiniTV Clone](https://github.com/Sourabh878/AmazoneminiTV.com)
 
-- 🤖 **Microcontroller Projects**
+- **🤖 Microcontroller Projects**
   - 📦 [Automatic Packing System](https://github.com/Sourabh878/Autowrape)
   - 🏠 [Automatic Roofing System](https://github.com/Sourabh878/Automatic-roofing-system)
 
 ---
 
-### 🌱 Currently Learning:
-**MongoDB**, **Express.js**, **React.js**, **Node.js**
+### 🌱 Currently Learning
+`MongoDB` • `Express.js` • `React.js` • `Node.js`
 
 ---
 
-### 💬 Ask Me About:
-- Express.js
-- MongoDB
-- DBMS
-- Operating Systems
-- SQL
-- Microcontrollers & Sensors
+### 💬 Ask Me About
+`Express.js` • `MongoDB` • `SQL` • `DBMS` • `Operating Systems` • `Microcontrollers` • `Sensors`
 
 ---
 
-### 📫 Reach Me At:
-**📧 Email**: sourabhn878@gmail.com
+### 🧠 Problem Solving Score
 
----
-
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+- 🧮 **GeeksforGeeks (GFG) Score**:  
+  🟢 **Solved problems** on data structures and algorithms  
+  🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/sourab8c7w/) 
+<p>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solver-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </p>
 
 ---
 
+### 📫 Let's Connect
+
+- **📧 Email**: `sourabhn878@gmail.com`
+- ⚡ [GitHub Portfolio](https://github.com/Sourabh878)
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,postman" alt="My Skills"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  🔍 Passionate about building secure, scalable backend systems and exploring microcontroller-based automation.
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sourabh878&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabh878&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh878&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🔥 Contributions
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sourabh878&theme=react-dark" width="90%"/>
+</p>
+
+---
+
+### 📟 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sourabh878&style=for-the-badge&color=0e75b6" alt="profile views" />
 </p>
