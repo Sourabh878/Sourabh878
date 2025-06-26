@@ -56,6 +56,7 @@
 
 - **📧 Email**: `sourabhn878@gmail.com`
 - ⚡ [GitHub Portfolio](https://github.com/Sourabh878)
+- **Linked In**: <link>www.linkedin.com/in/sourabh-nayak-473845284/</link>
 
 ---
 
@@ -87,6 +88,7 @@
 - **Won 2nd Prize in Social Innovation (2023–24)**  
 - **Published a paper on the networking project *"Web Proxy Server"* at the IEEE Conference held in Pune**  
 - **Published a paper in the ML and DL domain titled *"Kidney Stone Size Estimation Using VGG16 Architecture"***
+- <link>https://github.com/Sourabh878/MY-CERTIFICATES/wiki</link>
 
 
 ---
