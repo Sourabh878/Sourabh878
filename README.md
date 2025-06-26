@@ -80,11 +80,14 @@
 
 ---
 
-### 🔥 Contributions
+### 🔥 Achievements
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sourabh878&theme=react-dark" width="90%"/>
-</p>
+- **Runner-up in the Inter-Branch Volleyball Tournament (2023–24)**  
+- **Won 2nd Prize in Engineering Exploration (2023–24)**  
+- **Won 2nd Prize in Social Innovation (2023–24)**  
+- **Published a paper on the networking project *"Web Proxy Server"* at the IEEE Conference held in Pune**  
+- **Published a paper in the ML and DL domain titled *"Kidney Stone Size Estimation Using VGG16 Architecture"***
+
 
 ---
 
